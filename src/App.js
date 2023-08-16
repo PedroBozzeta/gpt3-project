@@ -15,13 +15,13 @@ function App() {
         <Navbar />
         <Header />
       </div>
-      <Footer />
-      <Blog />
-      <Possibility />
-      <Features />
-      <WhatGPT3 />
-      <CTA />
       <Brand />
+      <WhatGPT3 />
+      <Features />
+      <Possibility />
+      <CTA />
+      <Blog />
+      <Footer />
     </div>
   );
 }
